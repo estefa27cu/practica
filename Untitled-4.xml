@@ -1,0 +1,49 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primer sitio web en html5</title>
+</head>
+<body>
+   <header>
+<nav>
+   <ul>
+      <li>Enlace 1</li>
+      <li>Enlace 2</li>
+      <li>Enlace 3</li>
+
+   </ul>
+</nav>
+   </header> 
+   <main>
+<section>
+    <aside>
+       <div>
+          <img src="https://ep01.epimg.net/verne/imagenes/2021/01/07/mexico/1610051433_294527_1610052664_noticia_normal.jpg" alt="">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ab earum molestias animi eos a. Placeat impedit consequuntur assumenda asperiores voluptatum? Odit quod dolores dicta aliquam iusto autem quas velit.</p>
+
+       </div>
+       <figure>
+          <img src="https://services.meteored.com/img/article/las-curiosidades-del-dia-polar-14071-2_1024.jpg" alt="">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus illo deleniti earum doloremque aut incidunt. Maiores fugiat quo quis dolorum amet? Et mollitia voluptate minima inventore obcaecati voluptatibus exercitationem suscipit?</p>
+          <div>
+
+          </div>
+          <img src="http://estaticos.elmundo.es/assets/multimedia/imagenes/2016/11/25/14800906269695.jpg" alt="">
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non quas ut minima quae at facilis voluptatem impedit magnam sint mollitia, ipsa modi sed in similique repellat quibusdam obcaecati dolorum illum!</p>
+          <div>
+          <aside>
+          <section>
+   
+   </main>
+   <footer>
+   <CEnter>
+
+<span>copyright 2021 | Estefania Ceballos Uribe</span>
+
+   </footer>
+
+</body>
+</html>
